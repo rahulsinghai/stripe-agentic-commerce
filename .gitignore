@@ -116,3 +116,17 @@ typings/
 web_modules/
 yarn-debug.log*
 yarn-error.log*
+
+.claude/settings.local.json
+*.docx
+*.js
+
+.history/
+.cursor/
+.vscode/
+.cursorignore
+
+### Graphify
+graphify-out/cache/
+graphify-out/.graphify_python
+graphify-out/cost.json

@@ -100,3 +100,22 @@ Products live in `merchant-service/lib/*.json`. Each catalog is served at `/api/
 ## ACP Checkout Status Flow
 
 `not_ready_for_payment` → (add address + shipping) → `ready_for_payment` → (complete with SPT) → `completed`
+
+## Knowledge Graph
+
+A graphify knowledge graph of this codebase lives in `graphify-out/`:
+
+- `graphify-out/graph.json` — full node/edge graph (587 nodes, 892 edges across 45 communities)
+- `graphify-out/GRAPH_REPORT.md` — god nodes, surprising connections, community map
+- `graphify-out/graph.html` — interactive visualization
+
+**Before answering architecture questions**, check `graphify-out/GRAPH_REPORT.md` first — it contains pre-computed community structure, god nodes, and cross-cutting relationships.
+
+**Key god nodes** (highest connectivity — touch these carefully):
+- `getConfig()` (29 edges) — all frontend components depend on this
+- `loggedFetch()` (18 edges) — all API calls route through this for ACP logging
+- `Chat Route / chat.js` (13 edges) — the AI function-calling orchestration hub
+- `Shared Payment Token / SPT` (11 edges) — central to the payment security model
+
+**To query the graph** for a specific question: `/graphify query "<question>"`
+**To update after code changes**: `/graphify . --update`

@@ -1,0 +1,282 @@
+{
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/dev.ps1": {
+    "mtime": 1776172743.8971808,
+    "hash": "2e29020d8692ed419de5adef9c86e7ea"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/postcss.config.mjs": {
+    "mtime": 1776172743.9015067,
+    "hash": "b30e79be60928780c6d099e5b3751cfe"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/next.config.mjs": {
+    "mtime": 1776172743.9011068,
+    "hash": "4ae38bb20f5148fa142286b8989fc41a"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/next-env.d.ts": {
+    "mtime": 1776172743.9009984,
+    "hash": "b5ed9dd8b4c5ba8e5ab8e6a379c15838"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/tailwind.config.ts": {
+    "mtime": 1776172743.9017317,
+    "hash": "e4c71d31b5ae87a3c0d121cb78528b6d"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/app/layout.tsx": {
+    "mtime": 1776172743.8976786,
+    "hash": "9f23f65f8db92b48fb93c3097d97a995"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/app/page.tsx": {
+    "mtime": 1776172743.8977616,
+    "hash": "5c6046d4781e69a865851dc46830f15b"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/ChatInterface.tsx": {
+    "mtime": 1776172743.8984425,
+    "hash": "753eae20ea5bcc0615ae48d9570412f2"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/OrderConfirmation.tsx": {
+    "mtime": 1776172743.8992846,
+    "hash": "0ca7ec9a4ce843884217e1397504fff8"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/MerchantAdmin.tsx": {
+    "mtime": 1776172743.898873,
+    "hash": "83db4d525eafcfafc5fa170d01dac410"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/ImageOverlay.tsx": {
+    "mtime": 1776172743.8987386,
+    "hash": "cda83e394b2c26f590b5f91e1b6229a1"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/MessageRenderer.tsx": {
+    "mtime": 1776172743.899081,
+    "hash": "1026bd1eae8ae8ec2aba7eceaf1b3756"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/ProductCard.tsx": {
+    "mtime": 1776172743.8997366,
+    "hash": "9c4e8f3a41383254e1eee1a3814cab18"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/CartSummary.tsx": {
+    "mtime": 1776172743.8983207,
+    "hash": "ce7df817fa1f29cb631779fc36bd0190"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/BasketDrawer.tsx": {
+    "mtime": 1776172743.898146,
+    "hash": "76cded22b040347ba0d747d783e0ae04"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/ProfileSettings.tsx": {
+    "mtime": 1776172743.8998797,
+    "hash": "b1c9c927dedad755169eea883e42e087"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/PaymentSetup.tsx": {
+    "mtime": 1776176944.7848454,
+    "hash": "a3902cd8f97d344f05795e2fad928365"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/ConfigModal.tsx": {
+    "mtime": 1776172743.8986466,
+    "hash": "c558a3ecad2f18f47074de43e520b618"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/components/ACPInspector.tsx": {
+    "mtime": 1776172743.8979728,
+    "hash": "8bfacfd9d6d4b0bd0dacff6ad2d3f837"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/lib/acp-logger.ts": {
+    "mtime": 1776172743.9001317,
+    "hash": "ef0e683b7b78f18bcd2499405f6fbaad"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/lib/api.ts": {
+    "mtime": 1776172743.9004073,
+    "hash": "bf766fc2694fa4097d86555ba98baea2"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/lib/products.ts": {
+    "mtime": 1776172743.900889,
+    "hash": "223fc5803562dc70bfcc10ad43340279"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/lib/config.ts": {
+    "mtime": 1776172743.9006,
+    "hash": "503262f6984f27934b639949f5ae7af4"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/frontend/lib/personas.ts": {
+    "mtime": 1776172743.9007905,
+    "hash": "4074a8c768a457d669030eb1a8574925"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/server.js": {
+    "mtime": 1776172743.8961942,
+    "hash": "b2d90dddf1f78d7f64de831c9678d3eb"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/ai-service/app.mjs": {
+    "mtime": 1776172743.8839846,
+    "hash": "6f53bc05b63f085c0a9adf99853e9d99"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/lib/stripe-logger.js": {
+    "mtime": 1776172743.889406,
+    "hash": "901929e39a887b98c7f454a35411f32f"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/lib/acp-call-logger.js": {
+    "mtime": 1776172743.8889928,
+    "hash": "76437bbbe405c291d6d548d1b7734fc9"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/lib/openai.js": {
+    "mtime": 1776172743.8892796,
+    "hash": "9f7c520142e576ec80ae9a72b310b5df"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/stripe-service/app.mjs": {
+    "mtime": 1776172743.8965673,
+    "hash": "cecdf79b3c15fb0d78d1d04ce4eb2a78"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/routes/profile.js": {
+    "mtime": 1776172743.8960948,
+    "hash": "3ccd286c237140af34cd0a2b5da99c15"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/routes/payment.js": {
+    "mtime": 1776177360.7976394,
+    "hash": "83a667d731edfa5fba3f6bd34c59bdb2"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/routes/chat.js": {
+    "mtime": 1776172743.8923683,
+    "hash": "b145ef50d49932a55c467015c4246144"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/routes/checkout.js": {
+    "mtime": 1776177718.3984473,
+    "hash": "88e86e1be191181758aed9d4f5c4f592"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/server.js": {
+    "mtime": 1776172743.9869988,
+    "hash": "f0f2dd85bacb054f9e58a361eebe45fb"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/routes/health.js": {
+    "mtime": 1776172743.9867644,
+    "hash": "49427a9c16ab6358dd8896c62fcf4c66"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/routes/catalog.js": {
+    "mtime": 1776172743.986282,
+    "hash": "a2ca52094c681c9258659cc1161816f8"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/routes/checkouts.js": {
+    "mtime": 1776184698.2453694,
+    "hash": "f9125e4a38f1a1acb1673a3d0e85849b"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/routes/webhooks.js": {
+    "mtime": 1776172743.9868877,
+    "hash": "43cfb606e62cf9a2a4a05e0592fb451a"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/README.md": {
+    "mtime": 1776187751.0859838,
+    "hash": "a4d258775fa36ed63252af03d23c4c59"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/CLAUDE.md": {
+    "mtime": 1776186168.3660996,
+    "hash": "2112e2e930ee48b2df1e806749c74bce"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/README.md": {
+    "mtime": 1776172743.8808324,
+    "hash": "8c8bfcaeb631780d4c3933be8b2093d5"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/ai-service/template.yaml": {
+    "mtime": 1776172743.888514,
+    "hash": "656d57a1660d0b333eabb1bef1e7ac6c"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/stripe-service/template.yaml": {
+    "mtime": 1776172743.8970013,
+    "hash": "f0ed0b075a03a0239212c09ec5238289"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/agent-service/stripe-service/README.md": {
+    "mtime": 1776172743.8963683,
+    "hash": "6128ac38ee3316bffb3dab6dfad016a8"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/06_workshop.md": {
+    "mtime": 1776187739.5094197,
+    "hash": "8560df9a4136329a6048d4e2e397cc15"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/01_Module01.md": {
+    "mtime": 1776188027.9664764,
+    "hash": "1339e589706d1efa66ce1c14251cdc4e"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/03_module.md": {
+    "mtime": 1776186995.8231983,
+    "hash": "a51040483112468cea3f7c771735bb36"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/05_module.md": {
+    "mtime": 1776187715.5753555,
+    "hash": "4e0fbbcb297a5e0c5db18e96462a8ad7"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/00_GettingStarted.md": {
+    "mtime": 1776185793.410979,
+    "hash": "f6ed1d24707bf62101fd63de5a8b1ebd"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/02_Module.md": {
+    "mtime": 1776186830.6950932,
+    "hash": "ecd5295c153808dbb67c549864606886"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/04_module.md": {
+    "mtime": 1776187106.2116702,
+    "hash": "de96833163785d5e635e67d16a9d4efe"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/README.md": {
+    "mtime": 1776172743.9024282,
+    "hash": "591e3b360f2b39a5eb9e3f42027dca00"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/public/images/products/README.md": {
+    "mtime": 1776172743.9033768,
+    "hash": "9e967fa7ce1403e214ea5ee9cf127ef7"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_10.png": {
+    "mtime": 1776174910.2869623,
+    "hash": "c1807075d7f6371ae555e96c1fee5f44"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_1.png": {
+    "mtime": 1776171942.881734,
+    "hash": "05216e19bd1e9eadc8726597e4203ad1"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_11.png": {
+    "mtime": 1776176680.3600903,
+    "hash": "3b133322e7f21acda3dfa7b28fc07882"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_2.png": {
+    "mtime": 1776171956.2629523,
+    "hash": "5f60eeab2d08e6442f4258fa57d01885"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_3.png": {
+    "mtime": 1776172026.1541338,
+    "hash": "d874209e24fbed6bdca6e37c3149c4e6"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_7.png": {
+    "mtime": 1776174872.428879,
+    "hash": "5d9e54b7b3bd3107f2c057e1cc7bae17"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_6.png": {
+    "mtime": 1776173713.5776389,
+    "hash": "9a3d0c07c44905e5590921b664cef3e9"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_4.png": {
+    "mtime": 1776172035.4392655,
+    "hash": "5d0d710bbdd204d123dd3e947b44964e"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_5.png": {
+    "mtime": 1776173143.8962016,
+    "hash": "9e1c3bebccf9bf1ea50e2b2b45aa0441"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img.png": {
+    "mtime": 1776171923.4126248,
+    "hash": "fcba1c53fffcd26a9edc569538c5b16d"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_8.png": {
+    "mtime": 1776174883.8181796,
+    "hash": "8795238b54df0d8d54ffb21594c905e4"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/docs/img_9.png": {
+    "mtime": 1776174896.6420157,
+    "hash": "7daef9436f31597dd1003cc7901497b7"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/public/images/products/SKI-002.png": {
+    "mtime": 1776188482.4930434,
+    "hash": "7f4b7892edf0857d49abbb8869bd025c"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/public/images/products/SKI-003.png": {
+    "mtime": 1776188524.8341284,
+    "hash": "c9cb7fc656254910e8b1da6888c3414f"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/public/images/products/pc1.jpg": {
+    "mtime": 1776172743.9860308,
+    "hash": "3f041fb938e7aa2f320df89b245c8de4"
+  },
+  "/Users/rsinghai/dev/code/githubPvt/stripe-agentic-commerce/merchant-service/public/images/products/SKI-01.png": {
+    "mtime": 1776188474.6944432,
+    "hash": "6d56af42e0947a80477be27c334ba894"
+  }
+}
